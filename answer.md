@@ -12,4 +12,5 @@ In User interactions  where the frontend handles the user actions to clicking on
 The frontend communicate with backend as sending the request to the backend APIs to recieves the data from the backend and display for its users.for example like the user sending the login detail  to the server and ite showing the successfully or occuring error messages.
 
 
-
+Q2 .ROLE OF BACKEND(BE): Explain the role of backend (BE)in a wb application .Includes the points related to the :-(1) server-side processing, (2)Database handling, (3)Security and authenication.
+ANS:--Backend is something that running behind the screen which helps in running the server.Backend is the 
