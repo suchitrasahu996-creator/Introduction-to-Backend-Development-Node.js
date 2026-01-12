@@ -30,7 +30,11 @@ ANS:-- The client-server-model is a networking architecture where a client send 
 Server is the machine or various  applications that processess the request of the users .Its runs the backend code and accesses the databases and sends the responses back to the client.communication  happens between them client and server, the client sends the http request and the server process the request after that sends it responses in form of data or status to client display the results on the browser.
 
 
-
+Q5.Three-tier architecture .what is 3 tier Architecture in web application? Explain the each layer :
+Ans:--The 3-tier architecture is a widely used software architecture that divides an web application into the three separate layers for better scalability,security,and its maintenance.
+Layers of 3-Tier Architecture are the presentation layer (frontend):- The UI that users interact with layer.Its handle the users interaction and displays them and technologies are HTML,CSS,Javascript,React,Angular.
+Application Layer(backend):- the  business logic  that processes requests and applies the business rules.It is processes user request and rules and its technologies are Node.js,java,python,.net.
+Data layer(database):- this storage system where the application data is manages the data storage and its retrievals.Also includes the database and data access the logics and technologies are MySQL,MongoDB.Those Architecture are used for the better separation of concerns and its easier to maintenance and scalability also improved in the security and allows the indepedent developments in the each architecture layers
 
 
 
