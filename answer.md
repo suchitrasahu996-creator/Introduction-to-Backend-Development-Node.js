@@ -36,5 +36,6 @@ Layers of 3-Tier Architecture are the presentation layer (frontend):- The UI tha
 Application Layer(backend):- the  business logic  that processes requests and applies the business rules.It is processes user request and rules and its technologies are Node.js,java,python,.net.
 Data layer(database):- this storage system where the application data is manages the data storage and its retrievals.Also includes the database and data access the logics and technologies are MySQL,MongoDB.Those Architecture are used for the better separation of concerns and its easier to maintenance and scalability also improved in the security and allows the indepedent developments in the each architecture layers
 
+Q6.Javascript as a backend language.why is Javascript used as a backend language?explain with points such as: performance,ecosystem,popular frameworks.
 
-
+ANS:-- Javascript is widely used as a backend language mainly because of Node.js,which allows the javascript to running outside the browser,Node.js is a runtime environment that allows javascript to run on the server side,and making its so popular choice for the backend development.
